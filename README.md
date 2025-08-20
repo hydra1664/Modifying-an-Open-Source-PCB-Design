@@ -33,12 +33,17 @@ The idea was to explore PCB design changes in KiCad, upgrade the board to modern
 The repository includes images showing the original and modified design:
 
 - Original_DRC.png
-- <img width="1920" height="1080" alt="Original_DRC" src="https://github.com/user-attachments/assets/8f64a217-4b9a-4515-a52e-8d8ec1ed17bc" />
+<img width="1920" height="1080" alt="Original_DRC" src="https://github.com/user-attachments/assets/8f64a217-4b9a-4515-a52e-8d8ec1ed17bc" />
 - Modified_DRC.png
+<img width="1920" height="1080" alt="Modified_DRC" src="https://github.com/user-attachments/assets/bee82633-101b-49aa-9c55-1261c3224f62" />
 - Original_Schematics.png
-- Modified_Schematics.png 
-- Zoomed_Original_Schematics.png  
+<img width="1359" height="911" alt="Original_Schematics" src="https://github.com/user-attachments/assets/3ec37da7-ab5c-43a1-b13e-eacc6faa9239" />
+- Modified_Schematics.png
+<img width="1360" height="911" alt="Modified_Schematics" src="https://github.com/user-attachments/assets/c750034c-d1af-42db-b943-8cada9975e98" />
+- Zoomed_Original_Schematics.png
+<img width="1545" height="949" alt="Zoomed_Original Schematics" src="https://github.com/user-attachments/assets/3460573f-8848-4cec-b219-e1b479c8fd3c" />
 - Zoomed_Modified_Schematics.png  
+<img width="1545" height="949" alt="Zoomed_Modified_Schematics" src="https://github.com/user-attachments/assets/7babf126-8313-4981-be2b-be399c9ba2c6" />
 
 ## Project Files
 - Modified KiCad project files  
