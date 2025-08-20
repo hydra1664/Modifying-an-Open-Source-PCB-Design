@@ -62,6 +62,3 @@ The repository includes images showing the original and modified design:
 - How to properly select and fit a USB-C footprint on a compact board  
 - The importance of routing discipline and signal return paths  
 - Making small but meaningful hardware improvements that modernize older designs  
-
-Author: Mohammad Amash  
-Date: May 2025  
